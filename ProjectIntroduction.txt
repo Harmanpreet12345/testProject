@@ -1,0 +1,4 @@
+Indtroduction: 
+This course gives information about Git and Github.
+The learners acquire knowledge about commands and use which is beneficial for using this amazing tool. 
+This course has described creating a folder, repository, team management, branches, open and merge requests, and so on. 
